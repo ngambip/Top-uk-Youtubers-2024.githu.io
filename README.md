@@ -105,7 +105,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
     Scorecards
     Horizontal bar chart
 
-![Mock up Dasboard]("C:\Users\SWAZ\OneDrive\Assets\images\Mockup_Dashboard.png"Dashboard-Mockup)
+![Mockup-dash Board](https://github.com/ngambip/ngambip.github.io/assets/171139789/ac60fdf9-25a3-49c3-ab3f-1b95e1848d07)
 
 # Tools
 Tool 		Purpose
@@ -116,6 +116,7 @@ GitHub 		Hosting the project documentation and version control
 Mokkup AI 	Designing the wireframe/mockup of the dashboard
 
 # Development
+
 ## Pseudocode
 
     What's the general approach in creating this solution from start to finish?
@@ -132,11 +133,11 @@ Mokkup AI 	Designing the wireframe/mockup of the dashboard
 
 ## Data exploration notes
 
-This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc
-
+   This is the stage where you have a scan of what's in the data, errors, inconcsistencies, bugs, weird and corrupted characters etc
     What are your initial observations with this dataset? What's caught your attention so far?
 
-    There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the client for any more data.
+    There are at least 4 columns that contain the data we need for this analysis, which signals we have everything we need from the file without needing to contact the 
+    client for any more data.
     The first column contains the channel ID with what appears to be channel IDS, which are separated by a @ symbol - we need to extract the channel names from this.
     Some of the cells and header names are in a different language - we need to confirm if these columns are needed, and if so, we need to address them.
     We have more data than we need, so some of these columns would need to be removed
@@ -144,27 +145,24 @@ This is the stage where you have a scan of what's in the data, errors, inconcsis
 ## Data cleaning
 
     What do we expect the clean data to look like? (What should it contain? What contraints should we apply to it?)
-
-The aim is to refine our dataset to ensure it is structured and ready for analysis.
-
-The cleaned data should meet the following criteria and constraints:
-
+    The aim is to refine our dataset to ensure it is structured and ready for analysis.
+    The cleaned data should meet the following criteria and constraints:
     Only relevant columns should be retained.
     All data types should be appropriate for the contents of each column.
     No column should contain null values, indicating complete data for all records.
 
-Below is a table outlining the constraints on our cleaned dataset:
+   Below is a table outlining the constraints on our cleaned dataset:
 
-Number of Rows      100       
-Number of Columns   4           
+   Number of Rows      100       
+   Number of Columns   4           
 
-And here is a tabular representation of the expected schema for the clean data:
+  And here is a tabular representation of the expected schema for the clean data:
 
-Column Name 		Data Type 	Nullable
-channel_name 		VARCHAR 	NO
-total_subscribers 	INTEGER 	NO
-total_views 		INTEGER 	NO
-total_videos 		INTEGER 	NO
+ Column Name 		Data Type 	Nullable
+ channel_name 		VARCHAR 	NO
+ total_subscribers 	INTEGER 	NO
+ total_views 		INTEGER 	NO
+ total_videos 		INTEGER 	NO
 
     What steps are needed to clean and shape the data into the desired format?
 
@@ -174,7 +172,7 @@ total_videos 		INTEGER 	NO
 
 ## Transform the data
 
-
+...SQL
 /*
 # 1. Select the required columns
 # 2. Extract the channel name from the 'NOMBRE' column
@@ -297,13 +295,14 @@ Output
 ### Results
 
     What does the dashboard look like?
-
-![Power BI Dashboard]("C:\Users\SWAZ\OneDrive\Assets\images\PBI_Dasboard.png")
+                                     
+![PBI_Dasboard](https://github.com/ngambip/ngambip.githu.io/assets/171139789/1ab59dd0-1af6-4f17-b8d7-fcef8c42f017)
 
 This shows the Top UK Youtubers in 2024 so far.
-### DAX Measures
-1. Total Subscribers (M)
 
+### DAX Measures
+
+1. Total Subscribers (M)
 Total Subscribers (M) = 
 VAR million = 1000000
 VAR sumOfSubscribers = SUM(view_uk_youtubers_2024[total_subscribers])
@@ -321,7 +320,6 @@ VAR totalViews = ROUND(sumOfTotalViews / billion, 2)
 RETURN totalViews
 
 3. Total Videos
-
 Total Videos = 
 VAR totalVideos = SUM(view_uk_youtubers_2024[total_videos])
 
@@ -360,9 +358,9 @@ RETURN viewsPerSubscriber
 
     What did we find?
 
-For this analysis, we're going to focus on the questions below to get the information we need for our marketing client -
+   For this analysis, we're going to focus on the questions below to get the information we need for our marketing client -
 
-Here are the key questions we need to answer for our marketing client:
+    Here are the key questions we need to answer for our marketing client:
 
     Who are the top 10 YouTubers with the most subscribers?
     Which 3 channels have uploaded the most videos?
