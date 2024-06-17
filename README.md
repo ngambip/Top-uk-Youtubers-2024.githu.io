@@ -11,7 +11,7 @@
 
 Table of contents
 
-    Objective
+   https://ngambip.github.io/#objective
     Data Source
     Stages
     Design
