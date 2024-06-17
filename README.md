@@ -40,13 +40,12 @@
 # Objective
 
     What is the key pain point?
-
-The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of the year.
+    The Head of Marketing wants to find out who the top YouTubers are in 2024 to decide on which YouTubers would be best to run marketing campaigns throughout the rest of 
+    the year.
 
     What is the ideal solution?
 
 To create a dashboard that provides insights into the top UK YouTubers in 2024 that includes their
-
     subscriber count
     total views
     total videos, and
@@ -67,11 +66,8 @@ With this information, I can make more informed decisions about which Youtubers 
 We need data on the top UK YouTubers in 2024 that includes their
 
     channel names
-
     total subscribers
-
     total views
-
     total videos uploaded
 
     Where is the data coming from? The data is sourced from Kaggle (an Excel extract), see here to find it.
