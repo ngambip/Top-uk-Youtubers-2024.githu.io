@@ -173,6 +173,7 @@ Mokkup AI 	Designing the wireframe/mockup of the dashboard
 ## Transform the data
 
 ...SQL
+
 /*
 # 1. Select the required columns
 # 2. Extract the channel name from the 'NOMBRE' column
@@ -189,6 +190,8 @@ FROM
     top_uk_youtubers_2024
 
 ## Create the SQL view
+...
+
 
 /*
 # 1. Create a view to store the transformed data
