@@ -9,33 +9,33 @@
 ## Transforming Data Insights: A Comprehensive Study of the Leading YouTube Influencers in the UK Using Excel and Power BI
 
 
-Table of contents
+# Table of contents
 
-    objective
-    Data Source
-    Stages
-    Design
-        Mockup
-        Tools
-    Development
-        Pseudocode
-        Data Exploration
-        Data Cleaning
-        Transform the Data
-        Create the SQL View
-    Testing
-        Data Quality Tests
-    Visualization
-        Results
-        DAX Measures
-    Analysis
-        Findings
-        Validation
-        Discovery
-    Recommendations
-        Potential ROI
-        Potential Courses of Actions
-    Conclusion
+   - [objective](#objective)
+   - [Data Source](#Data-source)
+   - [Stages](#stages)
+   -[Design](#satges)
+     [Mockup](#mockup)
+        -[Tools](#Tools)
+    -[Development](#Development)
+        -[Pseudocode](#Pseudocode)
+        -[Data Exploration](#Data-Exploration)
+        -[Data Cleaning](#Data-Cleaning)
+        -[Transform the Data](#Transform-the-data)
+        -[Create the SQL View](#Create-the-SQL-view)
+    -[Testing](#Testing)
+        -[Data Quality Tests](#Data-Quality-Tests)
+    -[Visualization](#Visualization)
+        -[Results](#Results)
+        -[DAX Measures](#DAX-Measures)
+    -[Analysis](#Analysis)
+        -[Findings](#Findings)
+        -[Validation](#Validation)
+        -[Discovery](#Discovery)
+    -[Recommendations](#Recommendations)
+        -[Potential ROI](#Potential-ROI)
+        -[Potential Courses of Actions](#Potential-Courses-of-Action)
+    -[Conclusion](#Conclusion)
 
 Objective
 
