@@ -119,8 +119,8 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
+[Mockup Dasboard](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/Mockup_Dashboard.png)
 
-![Dashboard Mockup]("C:-Users-SWAZ-OneDrive-Assets-images-Mockup_Dashboard.png")
 
 
 ## Tools 
