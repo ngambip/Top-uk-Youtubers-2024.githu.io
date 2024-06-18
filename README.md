@@ -120,7 +120,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Dashboard-Mockup]("C:-Users-SWAZ-OneDrive-Assets-images-Mockup_Dashboard.png"assets-images-dashboard_mockup.png)
+![Dashboard Mockup]("C:-Users-SWAZ-OneDrive-Assets-images-Mockup_Dashboard.png")
 
 
 ## Tools 
