@@ -357,7 +357,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![ Power BI Dashboard](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/PBI_Dasboard.png)
+![Power BI Dashboard](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/PBI_Dasboard.png)
 
 
 This shows the Top UK Youtubers in 2024 so far. 
@@ -621,7 +621,8 @@ ORDER BY
 
 #### Output
 
-![Most subsc](assets/images/youtubers_with_the_most_subs.png)
+![Most subsc](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+
 
 ### 2. Youtubers with the most videos uploaded
 
@@ -711,7 +712,9 @@ ORDER BY
 
 #### Output
 
-![Most videos](assets/images/youtubers_with_the_most_videos.png)
+
+![Most subsc](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+
 
 
 ### 3.  Youtubers with the most views 
@@ -806,7 +809,7 @@ ORDER BY
 
 #### Output
 
-![Most views](assets/images/youtubers_with_the_most_views.png)
+![Most views](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL1%20Data%20testing.png)
 
 
 
