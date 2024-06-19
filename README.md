@@ -9,34 +9,35 @@
 ## Transforming Data Insights: A Comprehensive Study of the Leading YouTube Influencers in the UK Using Excel and Power BI
 
 
-# Table of contents
 
- - [objective](#objective)
-   - [Data Source](#Data-source)
-   - [Stages](#stages)
-   - [Design](#Design)
-    - [Mockup](#mockup)
-      - [Tools](#Tools)
-    - [Development](#Development)
-        - [Pseudocode](#Pseudocode)
-        - [Data Exploration](#Data-Exploration)
-        - [Data Cleaning](#Data-Cleaning)
-        - [Transform the Data](#Transform-the-data)
-        - [Create the SQL View](#Create-the-SQL-view)
-    - [Testing](#Testing)
-        - [Data Quality Tests](#Data-Quality-Tests)
-    - [Visualization](#Visualization)
-        - [Results](#Results)
-        - [DAX Measures](#DAX-Measures)
-    - [Analysis](#Analysis)
-        - [Findings](#Findings)
-        - [Validation](#Validation)
-        - [Discovery](#Discovery)
-    - [Recommendations](#Recommendations)
-        - [Potential ROI](#Potential-ROI)
-        - [Potential Courses of Actions](#Potential-Courses-of-Action)
-    - [Conclusion](#Conclusion)
 
+# Table of contents 
+
+- [Objective](#objective)
+- [Data Source](#data-source)
+- [Stages](#stages)
+- [Design](#design)
+  - [Mockup](#mockup)
+  - [Tools](#tools)
+- [Development](#development)
+  - [Pseudocode](#pseudocode)
+  - [Data Exploration](#data-exploration)
+  - [Data Cleaning](#data-cleaning)
+  - [Transform the Data](#transform-the-data)
+  - [Create the SQL View](#create-the-sql-view)
+- [Testing](#testing)
+  - [Data Quality Tests](#data-quality-tests)
+- [Visualization](#visualization)
+  - [Results](#results)
+  - [DAX Measures](#dax-measures)
+- [Analysis](#analysis)
+  - [Findings](#findings)
+  - [Validation](#validation)
+  - [Discovery](#discovery)
+- [Recommendations](#recommendations)
+  - [Potential ROI](#potential-roi)
+  - [Potential Courses of Actions](#potential-courses-of-actions)
+- [Conclusion](#conclusion)
 
 # Objective 
 
