@@ -713,7 +713,7 @@ ORDER BY
 #### Output
 
 
-![Most subsc](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+![Most Subs](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
 
 
 
