@@ -273,7 +273,7 @@ FROM
 
 ```
 
-![row-Count](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/Data_quality2_checks.png)
+![row-Count](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality2_checks.png)
 
 
 
@@ -294,7 +294,7 @@ WHERE
 ```
 ### Output 
 
-![Column-Count](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/Data_quality2_checks.png)
+![Column-Count](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality2_checks.png)
 
 
 ## Data type check
@@ -315,7 +315,7 @@ WHERE
 ```
 ### Output
 
-![Data-Check](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/Data_quality2_checks.png)
+![Data-Check](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality2_checks.png)
 
 ## Duplicate count check
 ### SQL query 
@@ -343,7 +343,7 @@ HAVING
 ```
 ### Output
 
-![Duplicate-checks](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/Data_quality3_checks.png)
+![Duplicate-checks](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality3_checks.png)
 
 
 
@@ -354,7 +354,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![Power-BI-Dashboard](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/PBI_Dasboard.png)
+![Power-BI-Dashboard](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/PBI_Dasboard.png)
 
 
 This shows the Top UK Youtubers in 2024 so far. 
@@ -618,7 +618,7 @@ ORDER BY
 
 #### Output
 
-![Most-subsc](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+![Most-subsc](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
 
 
 ### 2. Youtubers with the most videos uploaded
@@ -710,7 +710,7 @@ ORDER BY
 #### Output
 
 
-![Most-Subs](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+![Most-Subs](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
 
 
 
@@ -806,7 +806,7 @@ ORDER BY
 
 #### Output
 
-![Most-views](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/SQL1%20Data%20testing.png)
+![Most-views](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/SQL1%20Data%20testing.png)
 
 
 
