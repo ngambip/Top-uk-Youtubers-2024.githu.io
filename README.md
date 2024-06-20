@@ -2,7 +2,7 @@
 
 
 
-![kaggle_to_powerbi](https://github.com/ngambip/ngambip.githu.io/assets/171139789/ac60fdf9-25a3-49c3-ab3f-1b95e1848d07)
+![kaggle_to_powerbi](https://github.com/ngambip/ngambip.github.io/assets/171139789/ac60fdf9-25a3-49c3-ab3f-1b95e1848d07)
 
 # Analyzing Top YouTubers in the UK: From Excel to Power BI
 
@@ -120,7 +120,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Mockup Dashboard](https://github.com/ngambip/ngambip.githu.io/blob/main/Assets/Images/Mockup_Dashboard%20(1).png)
+![Mockup Dashboard](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Mockup_Dashboard%20(1).png)
 ## Tools 
 
 
