@@ -120,7 +120,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 
 
 
-![Mockup Dashboard](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Mockup_Dashboard%20(1).png)
+![Mockup Dashboard](https://ngambip.github.io/ngambip.githu.io/blob/main/Assets/Images/Mockup_Dashboard%20(1).png)
 ## Tools 
 
 
