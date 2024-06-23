@@ -118,10 +118,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Scorecards
 4. Horizontal bar chart 
 
-## Mockup Dashboard
-
-![Mockup Dashboard](assets/images/Mockup_Dashboard.png)
-
+[Mock-up Dasboard](Assets/Images/Mockup_Dashboard.png)
 
 
 ## Tools 
