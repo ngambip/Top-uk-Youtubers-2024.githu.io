@@ -1,6 +1,6 @@
-# Data Portfolio: Excel to Power BI
+# Data Portfolio: Excel to Power BI						![logo](Assets/images/profile_pic.png)
 
-![Priscilla](assets/images/profile_pic.png)
+
 
 ![kaggle_to_powerbi](https://github.com/ngambip/ngambip.github.io/assets/171139789/ac60fdf9-25a3-49c3-ab3f-1b95e1848d07)
 
