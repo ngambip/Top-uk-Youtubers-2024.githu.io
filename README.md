@@ -1,4 +1,4 @@
-# Data Portfolio: Excel to Power BI						![logo](Assets/images/profile_pic.png)
+# Data Portfolio: Excel to Power BI						                  ![Priscilla](Assets/images/profile_pic.png)
 
 
 
