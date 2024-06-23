@@ -118,7 +118,7 @@ Some of the data visuals that may be appropriate in answering our questions incl
 3. Scorecards
 4. Horizontal bar chart 
 
-[Mock-up Dasboard](Assets/Images/Mockup_Dashboard.png)
+![Mock-up Dasboard](Assets/Images/Mockup_Dashboard.png)
 
 
 ## Tools 
@@ -273,7 +273,7 @@ FROM
 
 ```
 
-![row-Count](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality2_checks.png)
+![row-Count](Assets/Images/Data_quality2_checks.png)
 
 
 
@@ -294,7 +294,8 @@ WHERE
 ```
 ### Output 
 
-![Column-Count](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality2_checks.png)
+![Column-Count](Assets/Images/Data_quality2_checks.png)
+
 
 
 ## Data type check
@@ -315,7 +316,7 @@ WHERE
 ```
 ### Output
 
-![Data-Check](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality2_checks.png)
+![Data-Check](Assets/Images/Data_quality2_checks.png)
 
 ## Duplicate count check
 ### SQL query 
@@ -343,7 +344,7 @@ HAVING
 ```
 ### Output
 
-![Duplicate-checks](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/Data_quality3_checks.png)
+![Duplicate-checks](Assets/Images/Data_quality3_checks.png)
 
 
 
@@ -354,7 +355,7 @@ HAVING
 
 - What does the dashboard look like?
 
-![Power-BI-Dashboard](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/PBI_Dasboard.png)
+![Power-BI-Dashboard](Assets/Images/PBI_Dasboard.png)
 
 
 This shows the Top UK Youtubers in 2024 so far. 
@@ -618,7 +619,7 @@ ORDER BY
 
 #### Output
 
-![Most-subsc](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+![Most-subsc](Assets/Images/SQL_Data_testing.png)
 
 
 ### 2. Youtubers with the most videos uploaded
@@ -710,7 +711,7 @@ ORDER BY
 #### Output
 
 
-![Most-Subs](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/SQL%20Data%20testing.png)
+![Most-Subs](Assets/Images/SQL_Data_testing.png)
 
 
 
@@ -806,7 +807,7 @@ ORDER BY
 
 #### Output
 
-![Most-views](https://github.com/ngambip/ngambip.github.io/blob/main/Assets/Images/SQL1%20Data%20testing.png)
+![Most-views](Assets/Images/SQL1_Data_testing.png)
 
 
 
