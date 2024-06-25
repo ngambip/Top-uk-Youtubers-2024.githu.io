@@ -1,4 +1,4 @@
-# Data Portfolio: Excel to Power BI									#PRISCILLA						             
+# Data Portfolio: Excel to Power BI											             
 
 
 ![kaggle_to_powerbi](https://github.com/ngambip/ngambip.github.io/assets/171139789/ac60fdf9-25a3-49c3-ab3f-1b95e1848d07)
