@@ -864,7 +864,7 @@ We'll have conversations with the marketing client to forecast what they also ex
 # Welcome to My GitHub Profile
 
 ## Technologies
-https://ngambip.github.io/Top-uk-Youtubers-2024.githu.io=Langage TSQL
+- [Top UK YouTubers 2024](https://github.com/ngambip/Top-uk-youtubers-2024/search?l=tsql)
 
 ## Projects
 - [Top UK YouTubers 2024](https://ngambip.github.io/Top-uk-Youtubers-2024.githu.io/)
