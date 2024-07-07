@@ -864,10 +864,10 @@ We'll have conversations with the marketing client to forecast what they also ex
 # Welcome to My GitHub Profile
 
 ## Technologies
-![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+https://ngambip.github.io/Top-uk-Youtubers-2024.githu.io=Langage TSQL
 
 ## Projects
-- [Top UK YouTubers 2024](https://github.com/yourusername/topukyoutubers2024)
+- [Top UK YouTubers 2024](https://ngambip.github.io/Top-uk-Youtubers-2024.githu.io/)
 
 Feel free to explore my projects and reach out if you have any questions or collaborations in mind!
 
