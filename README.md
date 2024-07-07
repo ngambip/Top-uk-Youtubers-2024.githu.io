@@ -859,4 +859,16 @@ We'll have conversations with the marketing client to forecast what they also ex
 1. Reach out to the teams behind each of these channels, starting with Dan Rhodes
 2. Negotiate contracts within the budgets allocated to each marketing campaign
 3. Kick off the campaigns and track each of their performances against the KPIs
-4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences 
+4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences
+
+# Welcome to My GitHub Profile
+
+## Technologies
+![TSQL](https://img.shields.io/badge/-TSQL-007ACC?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+
+## Projects
+- [Top UK YouTubers 2024](https://github.com/yourusername/topukyoutubers2024)
+
+Feel free to explore my projects and reach out if you have any questions or collaborations in mind!
+
+
