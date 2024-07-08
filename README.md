@@ -8,6 +8,14 @@
 ## Transforming Data Insights: A Comprehensive Study of the Leading YouTube Influencers in the UK Using Excel and Power BI
 
 
+# Welcome to My GitHub Profile
+
+
+## Project
+- [Top UK YouTubers 2024](https://ngambip.github.io/Top-uk-Youtubers-2024.githu.io/)
+
+
+
 
 
 # Table of contents 
@@ -861,11 +869,6 @@ We'll have conversations with the marketing client to forecast what they also ex
 3. Kick off the campaigns and track each of their performances against the KPIs
 4. Review how the campaigns have gone, gather insights and optimize based on feedback from converted customers and each channel's audiences
 
-# Welcome to My GitHub Profile
-
-
-## Project
-- [Top UK YouTubers 2024](https://ngambip.github.io/Top-uk-Youtubers-2024.githu.io/)
 
 Feel free to explore my projects and reach out if you have any questions or collaborations in mind!
 
