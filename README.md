@@ -3,12 +3,13 @@
 
 ![kaggle_to_powerbi](https://github.com/ngambip/ngambip.github.io/assets/171139789/ac60fdf9-25a3-49c3-ab3f-1b95e1848d07)
 
-# Analyzing Top YouTubers in the UK: From Excel to Power BI
+# Welcome to My GitHub Profile
+
 
 ## Transforming Data Insights: A Comprehensive Study of the Leading YouTube Influencers in the UK Using Excel and Power BI
 
 
-# Welcome to My GitHub Profile
+
 
 
 ## Project
