@@ -6,7 +6,7 @@
 # Welcome to My GitHub Profile
 
 
-## Transforming Data Insights: A Comprehensive Study of the Leading YouTube Influencers in the UK Using Excel and Power BI
+## Transforming Data Insights: A Comprehensive Study of the Leading YouTube Influencers in the UK 
 
 
 
